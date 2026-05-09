@@ -17,4 +17,5 @@ java -jar SlidePuzzle.jar
 5. 📂 コード構成initブロック: コンポーネントの初期化、数字のシャッフル、UIへの配置。handleMove: クリックイベントの処理とテキストの入れ替え。
 6. isAdjacent: 隣接チェックのアルゴリズム。checkWin: 勝利条件の検証。
 7. 📝 ライセンスこのプロジェクトは MITライセンス の下で公開されています。
+8. 
 <img width="477" height="486" alt="スクリーンショット 2026-05-09 194034" src="https://github.com/user-attachments/assets/27349bf1-c61e-4fa3-af3d-2177c1254be0" />
